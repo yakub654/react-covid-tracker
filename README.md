@@ -3,7 +3,7 @@
 Credits to @cleverprogrammer team i love you guyzz
 Plzz checkout their youtube channel at https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ
 
-This project uses realaible covid-19 open source data from disease.sh api 
+This project uses reliable covid-19 open source data from disease.sh api 
 >>>>>>> https://disease.sh/
 
 ## Available Scripts
